@@ -1,0 +1,553 @@
+Added Component: Designator=C1(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "4u7F/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_4u7F/10V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "4.7E-6"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "10nF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_10nF/50V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "1E-8"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "10nF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_10nF/50V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "1E-8"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "10nF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_10nF/50V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "1E-8"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "4u7F/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_4u7F/10V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "4.7E-6"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "4u7F/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_4u7F/10V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "4.7E-6"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "470pF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_470pF/50V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "4.7E-11"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "4u7F/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_4u7F/10V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "4.7E-6"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "4u7F/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_4u7F/10V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "4.7E-6"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_22nF/50V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_22nF/50V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "22pF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_22pF/50V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "2.2E-11"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "22pF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_22pF/50V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "2.2E-11"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "22pF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_22pF/50V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "2.2E-11"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "22pF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_22pF/50V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "2.2E-11"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "1nF/2000V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_1nF/2000V_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "1E-9"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "100nF/25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_100nF/25V_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAP_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "1nF/2000V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP_1nF/2000V_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "1E-9"; VariantName = "[No Variations]"
+Added Component: Designator=CON1(S9014E-12-ND)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "S9014E-12-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "S9014E-12-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=CON2(S9014E-12-ND)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "S9014E-12-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "S9014E-12-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=CON3(S9014E-3-ND)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "S9014E-3-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "S9014E-3-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=CON4(S9014E-3-ND)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "S9014E-3-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "S9014E-3-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=L2(SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "1500R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FER_1500R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "1500"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "49R9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_49R9_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "49"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "49R9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_49R9_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "49"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "49R9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_49R9_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "49"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "49R9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_49R9_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "49"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "12K1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_12K1_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "12100"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "1K56"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_1K56_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "1560"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_10R_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_10R_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_10R_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_10R_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "330R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_330R_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Installed"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Machine"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "12K1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_12K1_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "static_cmp"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "12100"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "330R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_330R_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=T1(HR913129A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Transformers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "HR913129A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "4"; VariantName = "[No Variations]"
+Added Component: Designator=U3(LAN8742)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "Special_function_device"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Value"; Value = "8742"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LAN8742"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value_numeric"; Value = "8742"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CLK_IN Pin=CON1-8
+Added Pin To Net: NetName=CLK_IN Pin=U3-5
+Added Net: Name=CLK_IN
+Added Pin To Net: NetName=CRS_DV Pin=CON2-6
+Added Pin To Net: NetName=CRS_DV Pin=R10-1
+Added Net: Name=CRS_DV
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=CON1-6
+Added Pin To Net: NetName=GND Pin=CON1-9
+Added Pin To Net: NetName=GND Pin=CON3-1
+Added Pin To Net: NetName=GND Pin=CON3-2
+Added Pin To Net: NetName=GND Pin=CON3-3
+Added Pin To Net: NetName=GND Pin=CON4-1
+Added Pin To Net: NetName=GND Pin=CON4-2
+Added Pin To Net: NetName=GND Pin=CON4-3
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=GND Pin=U3-25
+Added Net: Name=GND
+Added Pin To Net: NetName=LED1 Pin=T1-9
+Added Pin To Net: NetName=LED1 Pin=U3-3
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=R11-1
+Added Pin To Net: NetName=LED2 Pin=T1-11
+Added Net: Name=LED2
+Added Pin To Net: NetName=MDC Pin=CON2-7
+Added Pin To Net: NetName=MDC Pin=U3-13
+Added Net: Name=MDC
+Added Pin To Net: NetName=MDIO Pin=CON2-8
+Added Pin To Net: NetName=MDIO Pin=R6-1
+Added Pin To Net: NetName=MDIO Pin=U3-12
+Added Net: Name=MDIO
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=C8-2
+Added Pin To Net: NetName=NetC7_2 Pin=U3-6
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=T1-13
+Added Pin To Net: NetName=NetC16_2 Pin=T1-14
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=T1-8
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R9-2
+Added Pin To Net: NetName=NetR5_1 Pin=U3-10
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U3-7
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U3-8
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U3-11
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U3-2
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U3-24
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=T1-10
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=nINT Pin=CON2-9
+Added Pin To Net: NetName=nINT Pin=U3-14
+Added Net: Name=nINT
+Added Pin To Net: NetName=nRST Pin=CON2-10
+Added Pin To Net: NetName=nRST Pin=U3-15
+Added Net: Name=nRST
+Added Pin To Net: NetName=RX_D0 Pin=CON2-4
+Added Pin To Net: NetName=RX_D0 Pin=R8-1
+Added Net: Name=RX_D0
+Added Pin To Net: NetName=RX_D1 Pin=CON2-3
+Added Pin To Net: NetName=RX_D1 Pin=R7-1
+Added Net: Name=RX_D1
+Added Pin To Net: NetName=RX_ER Pin=CON2-5
+Added Pin To Net: NetName=RX_ER Pin=R9-1
+Added Net: Name=RX_ER
+Added Pin To Net: NetName=RX_N Pin=C15-2
+Added Pin To Net: NetName=RX_N Pin=R4-1
+Added Pin To Net: NetName=RX_N Pin=T1-6
+Added Pin To Net: NetName=RX_N Pin=U3-22
+Added Net: Name=RX_N
+Added Pin To Net: NetName=RX_P Pin=C14-2
+Added Pin To Net: NetName=RX_P Pin=R3-1
+Added Pin To Net: NetName=RX_P Pin=T1-3
+Added Pin To Net: NetName=RX_P Pin=U3-23
+Added Net: Name=RX_P
+Added Pin To Net: NetName=TX_D0 Pin=CON1-2
+Added Pin To Net: NetName=TX_D0 Pin=U3-17
+Added Net: Name=TX_D0
+Added Pin To Net: NetName=TX_D1 Pin=CON1-3
+Added Pin To Net: NetName=TX_D1 Pin=U3-18
+Added Net: Name=TX_D1
+Added Pin To Net: NetName=TX_EN Pin=CON1-1
+Added Pin To Net: NetName=TX_EN Pin=U3-16
+Added Net: Name=TX_EN
+Added Pin To Net: NetName=TX_N Pin=C13-2
+Added Pin To Net: NetName=TX_N Pin=R2-1
+Added Pin To Net: NetName=TX_N Pin=T1-2
+Added Pin To Net: NetName=TX_N Pin=U3-20
+Added Net: Name=TX_N
+Added Pin To Net: NetName=TX_P Pin=C12-2
+Added Pin To Net: NetName=TX_P Pin=R1-1
+Added Pin To Net: NetName=TX_P Pin=T1-1
+Added Pin To Net: NetName=TX_P Pin=U3-21
+Added Net: Name=TX_P
+Added Pin To Net: NetName=V3.3 Pin=C1-2
+Added Pin To Net: NetName=V3.3 Pin=C2-2
+Added Pin To Net: NetName=V3.3 Pin=C17-2
+Added Pin To Net: NetName=V3.3 Pin=CON1-10
+Added Pin To Net: NetName=V3.3 Pin=L2-1
+Added Pin To Net: NetName=V3.3 Pin=R5-2
+Added Pin To Net: NetName=V3.3 Pin=R6-2
+Added Pin To Net: NetName=V3.3 Pin=U3-9
+Added Net: Name=V3.3
+Added Pin To Net: NetName=VDDA Pin=C3-2
+Added Pin To Net: NetName=VDDA Pin=C4-2
+Added Pin To Net: NetName=VDDA Pin=C5-2
+Added Pin To Net: NetName=VDDA Pin=C6-2
+Added Pin To Net: NetName=VDDA Pin=C9-2
+Added Pin To Net: NetName=VDDA Pin=C10-1
+Added Pin To Net: NetName=VDDA Pin=C11-1
+Added Pin To Net: NetName=VDDA Pin=L2-2
+Added Pin To Net: NetName=VDDA Pin=R1-2
+Added Pin To Net: NetName=VDDA Pin=R2-2
+Added Pin To Net: NetName=VDDA Pin=R3-2
+Added Pin To Net: NetName=VDDA Pin=R4-2
+Added Pin To Net: NetName=VDDA Pin=T1-4
+Added Pin To Net: NetName=VDDA Pin=T1-5
+Added Pin To Net: NetName=VDDA Pin=T1-12
+Added Pin To Net: NetName=VDDA Pin=U3-1
+Added Pin To Net: NetName=VDDA Pin=U3-19
+Added Net: Name=VDDA
+Added Class: Name=lan8742_daughterboard_EF
+Added Differential Pair: Name=RX
+Added Differential Pair: Name=TX
